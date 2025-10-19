@@ -1,0 +1,65 @@
+.card{
+    border-radius: 5px;
+    border:solid 1px black;
+    margin:10px;
+    padding: 8px;
+   width: 250px;
+   min-width:250px;
+   max-width:250px;
+    height:450px;
+    min-height:450px;
+    max-height:450px;
+    flex-direction: column;
+    display: inline-block;
+  box-shadow: 4px 4px 4px rgba(113, 102, 102, 0.87);
+  padding-bottom: 65px;
+}
+.frstrow{
+    padding-top: 90px;
+}
+.cardimg{
+    width:  200px;
+    height:200px;
+    border-radius:5px;
+    
+}
+
+
+.protitle{
+    font-family:Arial, Helvetica, sans-serif;
+font-size:25px;
+    font-weight:bold;
+    color:rgb(197, 40, 40)
+}
+.prodesc{
+    font-size:20px;
+    color: black;
+    font-weight:lighter;
+    font-family:Calibri;
+}
+.prpr{
+    font-size:25px;
+font-family:Verdan;
+font-weight:bold;
+}
+.Instock{
+    color: green;
+  font-weight:bold;
+  font-size: 20px;
+   margin-top:2px;
+}
+
+.Outstock{
+ color: red;
+  font-weight: bold;
+    font-size: 20px;
+    margin-top:2px;
+}
+.added{
+font-size:25px;
+font-family: 'Times New Roman', Times, serif;
+color: green;
+border:1px,black,solid;
+padding:5px;
+text-align:"left";
+}
